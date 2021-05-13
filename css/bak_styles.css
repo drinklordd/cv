@@ -1,0 +1,48 @@
+body {
+  background-color: #322f3d;
+  margin: 0;
+}
+
+p {
+  color: #dddddd;
+}
+
+h1 {
+  color: #b8b5ff;
+}
+
+h2 {
+  color: #dddddd;
+}
+
+div {
+  background-color: #313131;
+}
+
+.content {
+  background-color: #525252;
+  color: #dddddd;
+}
+
+.cont {
+  color: #dddddd;
+}
+
+.info {
+  background-color: #525252;
+  position: relative;
+}
+
+.focus {
+  color: #ca3e47;
+  position: relative;
+}
+
+.acts {
+  background-color: #525252;
+  position: relative;
+}
+
+#header-logo {
+  background-color: #525252;
+}
